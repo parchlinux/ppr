@@ -1,22 +1,38 @@
+import logging
 import os
 
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
+
 archs = ("x86_64",)
-base_text = """# Parch_os repo
+archs_text = """[../](..)
 
 """
-base_url = "https://github.com/parch-os/parch_repo/raw/main/{arch}/{package}"
+README_text = """# PPR: Parch Pacman repository
+
+"""
+base_url = "https://parch-os.github.io/ppr/{arch}/{package}"
 
 for arch in archs:
+    logging.info("Generating for arch: %s", arch)
+    README_text += f"- [{arch}]({arch})\n"
+
     packages = os.listdir(arch)
     packages.sort()
+
     for package in packages:
-        base_text += (
-            "- [{}]".format(package.split(".")[0])
+        if not ".zst" in package:
+            continue
+
+        logging.info("Generating for package: %s", package)
+        archs_text += (
+            f"- [{package.split('.')[0]}]"
             + "("
             + base_url.format(arch=arch, package=package)
-            + ")"
-            + "\n"
+            + ")\n"
         )
 
+    with open(f"{arch}/README.md", "w") as f:
+        f.write(archs_text)
+
 with open("README.md", "w") as f:
-    f.write(base_text)
+    f.write(README_text)
