@@ -11,7 +11,7 @@ for arch in archs:
     packages.sort()
     for package in packages:
         base_text += (
-            "[{}]".format(package.split(".")[0])
+            "- [{}]".format(package.split(".")[0])
             + "("
             + base_url.format(arch=arch, package=package)
             + ")"
