@@ -12,6 +12,7 @@
 - [mintstick-git-r221](https://parch-os.github.io/ppr/x86_64/mintstick-git-r221.e7b1893-1-any.pkg.tar.zst)
 - [mkinitcpio-openswap-0](https://parch-os.github.io/ppr/x86_64/mkinitcpio-openswap-0.1.0-4-any.pkg.tar.zst)
 - [octopi](https://parch-os.github.io/ppr/x86_64/octopi.pkg.tar.zst)
+- [parch-calamares-config-22](https://parch-os.github.io/ppr/x86_64/parch-calamares-config-22.07-1-any.pkg.tar.zst)
 - [parch-os-wallpapers-0](https://parch-os.github.io/ppr/x86_64/parch-os-wallpapers-0.0.1-1-any.pkg.tar.zst)
 - [paru-1](https://parch-os.github.io/ppr/x86_64/paru-1.11.1-1-x86_64.pkg.tar.zst)
 - [python-pyparted-3](https://parch-os.github.io/ppr/x86_64/python-pyparted-3.11.7-1-x86_64.pkg.tar.zst)
