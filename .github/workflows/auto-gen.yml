@@ -5,8 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'IRIP/img/*/*'
-      - 'auto-gen.py'
+      - '*.tar.zst'
   pull_request:
     branches:
       - main
