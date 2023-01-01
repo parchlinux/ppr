@@ -21,6 +21,7 @@
 - [octopi-0](https://parchlinux.github.io/ppr/x86_64/octopi-0.13.0-1-x86_64.pkg.tar.zst)
 - [parch-branding-2022](https://parchlinux.github.io/ppr/x86_64/parch-branding-2022.11.19-1-any.pkg.tar.zst)
 - [parch-os-wallpapers-0](https://parchlinux.github.io/ppr/x86_64/parch-os-wallpapers-0.0.1-1-any.pkg.tar.zst)
+- [parch-plasma-menu-2-1-any](https://parchlinux.github.io/ppr/x86_64/parch-plasma-menu-2-1-any.pkg.tar.zst)
 - [parchlinux-cala-config-22](https://parchlinux.github.io/ppr/x86_64/parchlinux-cala-config-22.07-5-any.pkg.tar.zst)
 - [paru-1](https://parchlinux.github.io/ppr/x86_64/paru-1.11.1-1-x86_64.pkg.tar.zst)
 - [python-pyparted-3](https://parchlinux.github.io/ppr/x86_64/python-pyparted-3.11.7-1-x86_64.pkg.tar.zst)
