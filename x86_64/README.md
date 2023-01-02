@@ -1,6 +1,7 @@
 [../](..)
 
 - [alpm_octopi_utils-1](https://parchlinux.github.io/ppr/x86_64/alpm_octopi_utils-1.0.2-3-x86_64.pkg.tar.zst)
+- [alpm_octopi_utils-git-r20](https://parchlinux.github.io/ppr/x86_64/alpm_octopi_utils-git-r20.1e735c3-1-x86_64.pkg.tar.zst)
 - [appimagelauncher-2](https://parchlinux.github.io/ppr/x86_64/appimagelauncher-2.2.0-6-x86_64.pkg.tar.zst)
 - [b43-firmware-6](https://parchlinux.github.io/ppr/x86_64/b43-firmware-6.30.163.46-1-any.pkg.tar.zst)
 - [brisk-menu-1:0](https://parchlinux.github.io/ppr/x86_64/brisk-menu-1:0.6.2-1-x86_64.pkg.tar.zst)
@@ -19,8 +20,10 @@
 - [mkinitcpio-openswap-0](https://parchlinux.github.io/ppr/x86_64/mkinitcpio-openswap-0.1.0-4-any.pkg.tar.zst)
 - [nerd-hack-font-1-1-any](https://parchlinux.github.io/ppr/x86_64/nerd-hack-font-1-1-any.pkg.tar.zst)
 - [octopi-0](https://parchlinux.github.io/ppr/x86_64/octopi-0.13.0-1-x86_64.pkg.tar.zst)
+- [octopi-git-0](https://parchlinux.github.io/ppr/x86_64/octopi-git-0.14.0.r6.a92868cb-1-x86_64.pkg.tar.zst)
 - [parch-branding-2022](https://parchlinux.github.io/ppr/x86_64/parch-branding-2022.11.19-1-any.pkg.tar.zst)
 - [parch-os-wallpapers-0](https://parchlinux.github.io/ppr/x86_64/parch-os-wallpapers-0.0.1-1-any.pkg.tar.zst)
+- [parch-pacman-2-1-any](https://parchlinux.github.io/ppr/x86_64/parch-pacman-2-1-any.pkg.tar.zst)
 - [parch-plasma-menu-2-1-any](https://parchlinux.github.io/ppr/x86_64/parch-plasma-menu-2-1-any.pkg.tar.zst)
 - [parchlinux-cala-config-22](https://parchlinux.github.io/ppr/x86_64/parchlinux-cala-config-22.07-5-any.pkg.tar.zst)
 - [paru-1](https://parchlinux.github.io/ppr/x86_64/paru-1.11.1-1-x86_64.pkg.tar.zst)
