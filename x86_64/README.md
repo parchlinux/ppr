@@ -22,6 +22,7 @@
 - [octopi-0](https://parchlinux.github.io/ppr/x86_64/octopi-0.13.0-1-x86_64.pkg.tar.zst)
 - [octopi-git-0](https://parchlinux.github.io/ppr/x86_64/octopi-git-0.14.0.r6.a92868cb-1-x86_64.pkg.tar.zst)
 - [parch-branding-2022](https://parchlinux.github.io/ppr/x86_64/parch-branding-2022.11.19-1-any.pkg.tar.zst)
+- [parch-emoji-ios-1-1-any](https://parchlinux.github.io/ppr/x86_64/parch-emoji-ios-1-1-any.pkg.tar.zst)
 - [parch-os-wallpapers-0](https://parchlinux.github.io/ppr/x86_64/parch-os-wallpapers-0.0.1-1-any.pkg.tar.zst)
 - [parch-pacman-2-1-any](https://parchlinux.github.io/ppr/x86_64/parch-pacman-2-1-any.pkg.tar.zst)
 - [parch-plasma-menu-2-1-any](https://parchlinux.github.io/ppr/x86_64/parch-plasma-menu-2-1-any.pkg.tar.zst)
