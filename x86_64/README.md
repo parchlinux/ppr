@@ -26,7 +26,7 @@
 - [parch-branding-2022](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-branding-2022.11.19-1-any.pkg.tar.zst)
 - [parch-emoji-ios-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-emoji-ios-1-1-any.pkg.tar.zst)
 - [parch-os-wallpapers-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-os-wallpapers-0.0.1-1-any.pkg.tar.zst)
-- [parch-pacman-2-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-pacman-2-1-any.pkg.tar.zst)
+- [parch-pacman-3-2-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-pacman-3-2-any.pkg.tar.zst)
 - [parch-plasma-menu-2-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-plasma-menu-2-1-any.pkg.tar.zst)
 - [parch-sddm-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-sddm-1-1-any.pkg.tar.zst)
 - [parchlinux-cala-config-22](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parchlinux-cala-config-22.07-5-any.pkg.tar.zst)
