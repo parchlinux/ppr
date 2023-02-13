@@ -14,7 +14,6 @@
 - [estedad-fonts-7](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/estedad-fonts-7.2-1-any.pkg.tar.zst)
 - [fish-parch](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fish-parch.pkg.tar.zst)
 - [fluent-gtk-theme-git-2022](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fluent-gtk-theme-git-2022.12.15.r6.gd6e7284-1-any.pkg.tar.zst)
-- [fluent-gtk-theme](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fluent-gtk-theme.pkg.tar.zst)
 - [gahshomar](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gahshomar.pkg.tar.zst)
 - [hack-nerd-fonts-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/hack-nerd-fonts-1-1-any.pkg.tar.zst)
 - [iranian-fonts](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/iranian-fonts.pkg.tar.zst)
