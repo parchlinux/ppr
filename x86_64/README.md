@@ -31,7 +31,7 @@
 - [parch-config-xfce-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-xfce-1-0-any.pkg.tar.zst)
 - [parch-dorood-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-dorood-1-0-any.pkg.tar.zst)
 - [parch-emoji-ios-1-2-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-emoji-ios-1-2-any.pkg.tar.zst)
-- [parch-fakey-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-fakey-1-0-any.pkg.tar.zst)
+- [parch-fakey-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-fakey-1-1-any.pkg.tar.zst)
 - [parch-os-wallpapers-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-os-wallpapers-0.0.1-1-any.pkg.tar.zst)
 - [parch-pacman-3-2-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-pacman-3-2-any.pkg.tar.zst)
 - [parch-plasma-menu-2-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-plasma-menu-2-1-any.pkg.tar.zst)
