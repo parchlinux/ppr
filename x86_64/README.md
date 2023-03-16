@@ -30,6 +30,7 @@
 - [octopi-git-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/octopi-git-0.14.0.r6.a92868cb-1-x86_64.pkg.tar.zst)
 - [parch-branding-2022](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-branding-2022.11.19-1-any.pkg.tar.zst)
 - [parch-config-cinnamon-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-cinnamon-1.1.0-1-any.pkg.tar.zst)
+- [parch-config-i3-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-i3-1.0.0-1-any.pkg.tar.zst)
 - [parch-config-xfce-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-xfce-1-0-any.pkg.tar.zst)
 - [parch-dorood-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-dorood-1-0-any.pkg.tar.zst)
 - [parch-emoji-ios-1-2-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-emoji-ios-1-2-any.pkg.tar.zst)
