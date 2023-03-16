@@ -4,17 +4,10 @@ on:
   push:
     branches:
       - main
-    paths:
-      - '*.tar.zst'
-      - 'auto-gen.py'
   pull_request:
     branches:
       - main
-    paths:
-      - '*.tar.zst'
-      - 'auto_gen.py'
-
-jobs:
+  jobs:
 
   add-actions:
     name: gen-readme
