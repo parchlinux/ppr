@@ -7,8 +7,7 @@ on:
   pull_request:
     branches:
       - main
-  jobs:
-
+jobs:
   add-actions:
     name: gen-readme
     runs-on: ubuntu-latest
