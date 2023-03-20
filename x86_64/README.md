@@ -66,5 +66,6 @@
 - [tela-circle-icon-theme-standard-2023](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/tela-circle-icon-theme-standard-2023.01.29-1-any.pkg.tar.zst)
 - [tela-circle-icon-theme-ubuntu-2023](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/tela-circle-icon-theme-ubuntu-2023.01.29-1-any.pkg.tar.zst)
 - [tela-circle-icon-theme-yellow-2023](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/tela-circle-icon-theme-yellow-2023.01.29-1-any.pkg.tar.zst)
+- [ttf-icomoon-feather-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/ttf-icomoon-feather-1.0-1-any.pkg.tar.zst)
 - [ttf-material-design-icons-4](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/ttf-material-design-icons-4.0.0-1-any.pkg.tar.zst)
 - [vazirmatn-fonts-32](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vazirmatn-fonts-32.101-2-any.pkg.tar.zst)
