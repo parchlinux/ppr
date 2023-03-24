@@ -25,6 +25,8 @@
 - [lutris](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/lutris.pkg.tar.zst)
 - [mintstick-git-r221](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/mintstick-git-r221.e7b1893-1-any.pkg.tar.zst)
 - [mkinitcpio-openswap-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/mkinitcpio-openswap-0.1.0-3-any.pkg.tar.zst)
+- [multicolor-sddm-theme-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/multicolor-sddm-theme-0.1.8-1-x86_64.pkg.tar.zst)
+- [multicolor-sddm-theme-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/multicolor-sddm-theme-0.1.8-1-x86_64.pkg.tar.zst.sig)
 - [neofetch-git-7](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/neofetch-git-7.1.0.r169.g0033e313-1-any.pkg.tar.zst)
 - [nerd-hack-font-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/nerd-hack-font-1-1-any.pkg.tar.zst)
 - [octopi-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/octopi-0.13.0-1-x86_64.pkg.tar.zst)
