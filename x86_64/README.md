@@ -55,6 +55,7 @@
 - [qogir-gtk-theme-2022](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/qogir-gtk-theme-2022.07.17-1-any.pkg.tar.zst)
 - [qt5-styleplugins-5](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/qt5-styleplugins-5.0.0.20170311-35-x86_64.pkg.tar.zst)
 - [sddm-theme-astronaut-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/sddm-theme-astronaut-1.0-1-any.pkg.tar.zst)
+- [simplescreenrecorder-git-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/simplescreenrecorder-git-0.4.4.r9.gc092f3e-1-x86_64.pkg.tar.zst)
 - [slingscold](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/slingscold.pkg.tar.zst)
 - [sweet-gtk-theme-dark-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/sweet-gtk-theme-dark-3.0-1-any.pkg.tar.zst)
 - [tela-circle-icon-theme-black-2023](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/tela-circle-icon-theme-black-2023.01.29-1-any.pkg.tar.zst)
