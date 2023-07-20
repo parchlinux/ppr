@@ -41,7 +41,6 @@
 - [parch-config-cinnamon-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-cinnamon-1.1.0-1-any.pkg.tar.zst)
 - [parch-config-i3-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-i3-1.2.0-1-any.pkg.tar.zst)
 - [parch-config-i3-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-i3-1.2.0-1-any.pkg.tar.zst.sig)
-- [parch-config-xfce-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-xfce-1-0-any.pkg.tar.zst)
 - [parch-config-zsh-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-zsh-1.0.1-1-any.pkg.tar.zst)
 - [parch-dorood-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-dorood-1-0-any.pkg.tar.zst)
 - [parch-emoji-ios-1-2-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-emoji-ios-1-2-any.pkg.tar.zst)
@@ -91,3 +90,4 @@
 - [vala-panel-appmenu-valapanel-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vala-panel-appmenu-valapanel-0.7.6-3-x86_64.pkg.tar.zst)
 - [vala-panel-appmenu-xfce-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vala-panel-appmenu-xfce-0.7.6-3-x86_64.pkg.tar.zst)
 - [vazirmatn-fonts-32](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vazirmatn-fonts-32.101-2-any.pkg.tar.zst)
+- [xfce-parch-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/xfce-parch-1-0-any.pkg.tar.zst)
