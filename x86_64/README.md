@@ -92,4 +92,4 @@
 - [vala-panel-appmenu-valapanel-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vala-panel-appmenu-valapanel-0.7.6-3-x86_64.pkg.tar.zst)
 - [vala-panel-appmenu-xfce-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vala-panel-appmenu-xfce-0.7.6-3-x86_64.pkg.tar.zst)
 - [vazirmatn-fonts-32](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vazirmatn-fonts-32.101-2-any.pkg.tar.zst)
-- [xfce-parch-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/xfce-parch-1-0-any.pkg.tar.zst)
+- [xfce-parch-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/xfce-parch-1-1-any.pkg.tar.zst)
