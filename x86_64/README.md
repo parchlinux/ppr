@@ -9,6 +9,7 @@
 - [blackarch-mirrors-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/blackarch-mirrors-1-0-any.pkg.tar.zst)
 - [brisk-menu-1:0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/brisk-menu-1:0.6.2-1-x86_64.pkg.tar.zst)
 - [calamares-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-3.2.60-1-x86_64.pkg.tar.zst)
+- [chaotic-aur-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/chaotic-aur-1-0-any.pkg.tar.zst)
 - [ckbcomp-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/ckbcomp-1.219-1-any.pkg.tar.zst)
 - [cutefish-cursor-themes-git-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/cutefish-cursor-themes-git-0.7-1-any.pkg.tar.zst)
 - [cutefish-gtk-themes-git-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/cutefish-gtk-themes-git-0.7.r0.g91f762f-1-any.pkg.tar.zst)
