@@ -39,7 +39,7 @@
 - [octopi-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/octopi-0.13.0-1-x86_64.pkg.tar.zst)
 - [octopi-git-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/octopi-git-0.14.0.r6.a92868cb-1-x86_64.pkg.tar.zst)
 - [oh-my-zsh-git-r1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/oh-my-zsh-git-r1.82d2616-1-any.pkg.tar.zst)
-- [parch-branding-2022](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-branding-2022.11.19-1-any.pkg.tar.zst)
+- [parch-branding-2023](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-branding-2023.11.19-1-any.pkg.tar.zst)
 - [parch-config-cinnamon-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-cinnamon-1.1.0-1-any.pkg.tar.zst)
 - [parch-config-i3-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-i3-1.2.0-1-any.pkg.tar.zst)
 - [parch-config-i3-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-i3-1.2.0-1-any.pkg.tar.zst.sig)
