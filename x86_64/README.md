@@ -23,6 +23,7 @@
 - [fluent-gtk-theme-git-2022](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fluent-gtk-theme-git-2022.12.15.r6.gd6e7284-1-any.pkg.tar.zst)
 - [gahshomar](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gahshomar.pkg.tar.zst)
 - [gnome-shell-extension-ubuntu-dock-84ubuntu1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gnome-shell-extension-ubuntu-dock-84ubuntu1-1-any.pkg.tar.zst)
+- [gnome-software-packagekit-plugin-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gnome-software-packagekit-plugin-1-0-any.pkg.tar.zst)
 - [hack-nerd-fonts-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/hack-nerd-fonts-1-1-any.pkg.tar.zst)
 - [iranian-fonts](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/iranian-fonts.pkg.tar.zst)
 - [jcal-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/jcal-0.4.1-1-any.pkg.tar.zst)
