@@ -27,6 +27,8 @@
 - [gnome-software-packagekit-plugin-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gnome-software-packagekit-plugin-1-0-any.pkg.tar.zst)
 - [hack-nerd-fonts-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/hack-nerd-fonts-1-1-any.pkg.tar.zst)
 - [iranian-fonts](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/iranian-fonts.pkg.tar.zst)
+- [jade-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/jade-1.3.5-1-x86_64.pkg.tar.zst)
+- [jade-gui-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/jade-gui-1.9.3-1-x86_64.pkg.tar.zst)
 - [jcal-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/jcal-0.4.1-1-any.pkg.tar.zst)
 - [libpqmarble-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/libpqmarble-1.3.0+12+gf240b2e-1-x86_64.pkg.tar.zst)
 - [lutris](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/lutris.pkg.tar.zst)
