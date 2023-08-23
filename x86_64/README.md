@@ -68,6 +68,7 @@
 - [parch-printer-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-printer-1-0-any.pkg.tar.zst)
 - [parch-sddm-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-sddm-1-1-any.pkg.tar.zst)
 - [parch-sddm-theme-r37](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-sddm-theme-r37.c84d849-1-any.pkg.tar.zst)
+- [parch-welcome-r49](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-welcome-r49.5ffb460-1-x86_64.pkg.tar.zst)
 - [parchlinux-cala-config-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parchlinux-cala-config-1-0-any.pkg.tar.zst)
 - [paru-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/paru-1.11.1-1-x86_64.pkg.tar.zst)
 - [python-manimpango-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/python-manimpango-0.4.3-1-x86_64.pkg.tar.zst)
