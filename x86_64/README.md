@@ -21,6 +21,7 @@
 - [estedad-fonts-7](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/estedad-fonts-7.2-1-any.pkg.tar.zst)
 - [eww-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/eww-0.4.0-1-x86_64.pkg.tar.zst)
 - [fish-parch](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fish-parch.pkg.tar.zst)
+- [fluent-emojies-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fluent-emojies-1-0-any.pkg.tar.zst)
 - [fluent-gtk-theme-git-2022](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fluent-gtk-theme-git-2022.12.15.r6.gd6e7284-1-any.pkg.tar.zst)
 - [gahshomar](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gahshomar.pkg.tar.zst)
 - [gnome-shell-extension-ubuntu-dock-84ubuntu1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gnome-shell-extension-ubuntu-dock-84ubuntu1-1-any.pkg.tar.zst)
