@@ -81,6 +81,7 @@
 - [sddm-theme-astronaut-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/sddm-theme-astronaut-1.0-1-any.pkg.tar.zst)
 - [simplescreenrecorder-git-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/simplescreenrecorder-git-0.4.4.r9.gc092f3e-1-x86_64.pkg.tar.zst)
 - [slingscold](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/slingscold.pkg.tar.zst)
+- [swaykbdd-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/swaykbdd-1.2-1-x86_64.pkg.tar.zst)
 - [sweet-gtk-theme-dark-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/sweet-gtk-theme-dark-3.0-1-any.pkg.tar.zst)
 - [tela-circle-icon-theme-black-2023](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/tela-circle-icon-theme-black-2023.01.29-1-any.pkg.tar.zst)
 - [tela-circle-icon-theme-blue-2023](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/tela-circle-icon-theme-blue-2023.01.29-1-any.pkg.tar.zst)
