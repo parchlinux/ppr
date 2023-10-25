@@ -71,7 +71,7 @@
 - [parch-sddm-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-sddm-1-1-any.pkg.tar.zst)
 - [parch-sddm-theme-r37](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-sddm-theme-r37.c84d849-1-any.pkg.tar.zst)
 - [parch-sway-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-sway-1-1-any.pkg.tar.zst)
-- [parch-tweaks-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-tweaks-1-1-any.pkg.tar.zst)
+- [parch-tweaks-1-2-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-tweaks-1-2-any.pkg.tar.zst)
 - [parch-wallpapers-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-wallpapers-0.0.3-0-any.pkg.tar.zst)
 - [parch-welcome-r53](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-welcome-r53.a7fc110-1-x86_64.pkg.tar.zst)
 - [parchlinux-cala-config-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parchlinux-cala-config-1-1-any.pkg.tar.zst)
