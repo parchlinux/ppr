@@ -52,7 +52,7 @@
 - [octopi-git-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/octopi-git-0.14.0.r6.a92868cb-1-x86_64.pkg.tar.zst)
 - [oh-my-zsh-git-r1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/oh-my-zsh-git-r1.82d2616-1-any.pkg.tar.zst)
 - [pamac-nosnap-10](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/pamac-nosnap-10.5.1-1-x86_64.pkg.tar.zst)
-- [parch-branding-2023](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-branding-2023.11.19-1-any.pkg.tar.zst)
+- [parch-branding-2023](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-branding-2023.11.22-0-any.pkg.tar.zst)
 - [parch-config-i3-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-i3-1.2.0-1-any.pkg.tar.zst)
 - [parch-config-i3-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-i3-1.2.0-1-any.pkg.tar.zst.sig)
 - [parch-config-zsh-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-zsh-1.0.1-1-any.pkg.tar.zst)
