@@ -66,7 +66,7 @@
 - [parch-grub-theme-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-grub-theme-1.0.1-6-any.pkg.tar.zst)
 - [parch-livecd-config-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-livecd-config-1-0-any.pkg.tar.zst)
 - [parch-nix-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-nix-1-0-any.pkg.tar.zst)
-- [parch-pacman-24-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-pacman-24-1-any.pkg.tar.zst)
+- [parch-pacman-25-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-pacman-25-1-any.pkg.tar.zst)
 - [parch-plasma-menu-2-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-plasma-menu-2-1-any.pkg.tar.zst)
 - [parch-plymouth-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-plymouth-1-0-any.pkg.tar.zst)
 - [parch-printer-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-printer-1-0-any.pkg.tar.zst)
