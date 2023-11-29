@@ -77,7 +77,7 @@
 - [parch-wallpapers-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-wallpapers-0.0.3-0-any.pkg.tar.zst)
 - [parch-welcome-r53](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-welcome-r53.a7fc110-1-x86_64.pkg.tar.zst)
 - [parchlinux-cala-config-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parchlinux-cala-config-1-1-any.pkg.tar.zst)
-- [paru-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/paru-1.11.2-1-x86_64.pkg.tar.zst)
+- [paru-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/paru-2.0.0-1-x86_64.pkg.tar.zst)
 - [python-manimpango-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/python-manimpango-0.4.3-1-x86_64.pkg.tar.zst)
 - [python-pyparted-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/python-pyparted-3.11.7-1-x86_64.pkg.tar.zst)
 - [qogir-gtk-theme-2022](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/qogir-gtk-theme-2022.07.17-1-any.pkg.tar.zst)
