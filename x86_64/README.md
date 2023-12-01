@@ -64,6 +64,7 @@
 - [parch-gnome-backgrounds-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-gnome-backgrounds-1.0.5-1-any.pkg.tar.zst)
 - [parch-grub-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-grub-1-1-any.pkg.tar.zst)
 - [parch-grub-theme-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-grub-theme-1.0.1-6-any.pkg.tar.zst)
+- [parch-hypr-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-hypr-1-0-any.pkg.tar.zst)
 - [parch-livecd-config-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-livecd-config-1-0-any.pkg.tar.zst)
 - [parch-nix-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-nix-1-0-any.pkg.tar.zst)
 - [parch-pacman-25-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-pacman-25-1-any.pkg.tar.zst)
