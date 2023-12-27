@@ -84,6 +84,7 @@
 - [python-pyparted-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/python-pyparted-3.11.7-1-x86_64.pkg.tar.zst)
 - [qogir-gtk-theme-2022](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/qogir-gtk-theme-2022.07.17-1-any.pkg.tar.zst)
 - [sddm-theme-astronaut-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/sddm-theme-astronaut-1.0-1-any.pkg.tar.zst)
+- [simple-reflector-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/simple-reflector-1-0-any.pkg.tar.zst)
 - [simplescreenrecorder-git-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/simplescreenrecorder-git-0.4.4.r9.gc092f3e-1-x86_64.pkg.tar.zst)
 - [slingscold](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/slingscold.pkg.tar.zst)
 - [swaykbdd-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/swaykbdd-1.2-1-x86_64.pkg.tar.zst)
