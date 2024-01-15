@@ -1,5 +1,7 @@
 [../](..)
 
+- [adwaita-qt5-git-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/adwaita-qt5-git-1.4.1.r29.g0a77436-1-x86_64.pkg.tar.zst)
+- [adwaita-qt6-git-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/adwaita-qt6-git-1.4.1.r29.g0a77436-1-x86_64.pkg.tar.zst)
 - [alpm_octopi_utils-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/alpm_octopi_utils-1.0.2-3-x86_64.pkg.tar.zst)
 - [alpm_octopi_utils-git-r20](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/alpm_octopi_utils-git-r20.1e735c3-1-x86_64.pkg.tar.zst)
 - [appimagelauncher-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/appimagelauncher-2.2.0-6-x86_64.pkg.tar.zst)
