@@ -1,5 +1,6 @@
 [../](..)
 
+- [adw-gtk3-git-5](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/adw-gtk3-git-5.2.r0.8056d87-1-any.pkg.tar.zst)
 - [adwaita-qt5-git-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/adwaita-qt5-git-1.4.1.r29.g0a77436-1-x86_64.pkg.tar.zst)
 - [adwaita-qt6-git-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/adwaita-qt6-git-1.4.1.r29.g0a77436-1-x86_64.pkg.tar.zst)
 - [alpm_octopi_utils-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/alpm_octopi_utils-1.0.2-3-x86_64.pkg.tar.zst)
