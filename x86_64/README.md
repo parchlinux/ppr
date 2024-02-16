@@ -17,7 +17,7 @@
 - [calamares-parch-1-7-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-parch-1-7-any.pkg.tar.zst)
 - [chaotic-aur-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/chaotic-aur-1-0-any.pkg.tar.zst)
 - [cinnamon-parch-2-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/cinnamon-parch-2-0-any.pkg.tar.zst)
-- [ckbcomp-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/ckbcomp-1.219-1-any.pkg.tar.zst)
+- [ckbcomp-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/ckbcomp-1.221-1-any.pkg.tar.zst)
 - [cutefish-cursor-themes-git-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/cutefish-cursor-themes-git-0.7-1-any.pkg.tar.zst)
 - [cutefish-gtk-themes-git-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/cutefish-gtk-themes-git-0.7.r0.g91f762f-1-any.pkg.tar.zst)
 - [doas-6](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/doas-6.3p6-1-x86_64.pkg.tar.zst)
