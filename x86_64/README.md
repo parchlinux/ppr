@@ -15,7 +15,7 @@
 - [calamares-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-3.3.0-2-x86_64.pkg.tar.zst)
 - [calamares-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-3.3.0-3-x86_64.pkg.tar.zst)
 - [calamares-parch-1-7-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-parch-1-7-any.pkg.tar.zst)
-- [calamares-parch-beta-1-7-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-parch-beta-1-7-any.pkg.tar.zst)
+- [calamares-parch-beta-2-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-parch-beta-2-0-any.pkg.tar.zst)
 - [calamares-qt6-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-qt6-3.3.0-2-x86_64.pkg.tar.zst)
 - [chaotic-aur-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/chaotic-aur-1-0-any.pkg.tar.zst)
 - [cinnamon-parch-2-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/cinnamon-parch-2-0-any.pkg.tar.zst)
