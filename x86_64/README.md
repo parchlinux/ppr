@@ -66,7 +66,7 @@
 - [parch-config-zsh-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-config-zsh-1.0.1-1-any.pkg.tar.zst)
 - [parch-dorood-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-dorood-1-0-any.pkg.tar.zst)
 - [parch-emoji-ios-3-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-emoji-ios-3-0-any.pkg.tar.zst)
-- [parch-emoji-ios-estedad-3-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-emoji-ios-estedad-3-0-any.pkg.tar.zst)
+- [parch-emoji-ios-estedad-3-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-emoji-ios-estedad-3-1-any.pkg.tar.zst)
 - [parch-fakey-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-fakey-1-1-any.pkg.tar.zst)
 - [parch-firefox-config-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-firefox-config-1-1-any.pkg.tar.zst)
 - [parch-gdm-config-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-gdm-config-1-0-any.pkg.tar.zst)
