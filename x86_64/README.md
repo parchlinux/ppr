@@ -130,4 +130,5 @@
 - [vala-panel-appmenu-xfce-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vala-panel-appmenu-xfce-0.7.6-3-x86_64.pkg.tar.zst)
 - [vazir-code-fonts-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vazir-code-fonts-1.1.2-2-any.pkg.tar.zst)
 - [vazirmatn-fonts-33](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vazirmatn-fonts-33.003-1-any.pkg.tar.zst)
+- [waydroid-helper-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/waydroid-helper-1-0-any.pkg.tar.zst)
 - [xfce-parch-2-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/xfce-parch-2-0-any.pkg.tar.zst)
