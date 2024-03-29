@@ -33,6 +33,7 @@
 - [fluent-emojies-estedad-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fluent-emojies-estedad-1-1-any.pkg.tar.zst)
 - [fluent-emojies-mikhak-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fluent-emojies-mikhak-1-1-any.pkg.tar.zst)
 - [fluent-gtk-theme-git-2022](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/fluent-gtk-theme-git-2022.12.15.r6.gd6e7284-1-any.pkg.tar.zst)
+- [g4music-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/g4music-3.5.1-1-x86_64.pkg.tar.zst)
 - [gahshomar](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gahshomar.pkg.tar.zst)
 - [gdm-settings-4](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gdm-settings-4.1-2-any.pkg.tar.zst)
 - [gnome-parch-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gnome-parch-2.0.0-2-any.pkg.tar.zst)
