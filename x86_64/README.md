@@ -6,6 +6,7 @@
 - [alpm_octopi_utils-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/alpm_octopi_utils-1.0.2-3-x86_64.pkg.tar.zst)
 - [alpm_octopi_utils-git-r20](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/alpm_octopi_utils-git-r20.1e735c3-1-x86_64.pkg.tar.zst)
 - [appimagelauncher-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/appimagelauncher-2.2.0-6-x86_64.pkg.tar.zst)
+- [aptpac-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/aptpac-3.3.0-1-any.pkg.tar.zst)
 - [archlinux-logout-git-22](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/archlinux-logout-git-22.12-01-any.pkg.tar.zst)
 - [b43-firmware-6](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/b43-firmware-6.30.163.46-1-any.pkg.tar.zst)
 - [betterlockscreen-4](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/betterlockscreen-4.0.4-2-any.pkg.tar.zst)
