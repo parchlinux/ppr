@@ -14,6 +14,7 @@
 - [blackbox-terminal-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/blackbox-terminal-0.14.0-1-x86_64.pkg.tar.zst)
 - [brisk-menu-1:0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/brisk-menu-1:0.6.2-1-x86_64.pkg.tar.zst)
 - [calamares-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-3.3.6-1-x86_64.pkg.tar.zst)
+- [calamares-net-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-net-3.3.6-1-x86_64.pkg.tar.zst)
 - [calamares-parch-3-6-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-parch-3-6-any.pkg.tar.zst)
 - [calamares-parch-net-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-parch-net-1-0-any.pkg.tar.zst)
 - [chaotic-aur-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/chaotic-aur-1-0-any.pkg.tar.zst)
