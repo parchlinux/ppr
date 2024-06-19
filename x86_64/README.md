@@ -9,7 +9,7 @@
 - [betterlockscreen-4](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/betterlockscreen-4.0.4-2-any.pkg.tar.zst)
 - [blackarch-mirrors-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/blackarch-mirrors-1-0-any.pkg.tar.zst)
 - [blackbox-terminal-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/blackbox-terminal-0.14.0-1-x86_64.pkg.tar.zst)
-- [calamares-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-3.3.6-6-x86_64.pkg.tar.zst)
+- [calamares-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-3.3.6-7-x86_64.pkg.tar.zst)
 - [calamares-net-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-net-3.3.6-1-x86_64.pkg.tar.zst)
 - [calamares-parch-4-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-parch-4-0-any.pkg.tar.zst)
 - [calamares-parch-net-1-5-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/calamares-parch-net-1-5-any.pkg.tar.zst)
