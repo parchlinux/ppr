@@ -56,6 +56,7 @@
 - [parch-printer-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-printer-1-0-any.pkg.tar.zst)
 - [parch-sddm-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-sddm-1-1-any.pkg.tar.zst)
 - [parch-sddm-theme-r37](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-sddm-theme-r37.c84d849-1-any.pkg.tar.zst)
+- [parch-server-grub-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-server-grub-1-1-any.pkg.tar.zst)
 - [parch-sway-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-sway-1-1-any.pkg.tar.zst)
 - [parch-tweaks-1-5-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-tweaks-1-5-any.pkg.tar.zst)
 - [parch-wallpapers-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-wallpapers-0.0.3-0-any.pkg.tar.zst)
