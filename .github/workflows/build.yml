@@ -1,0 +1,26 @@
+# This workflow will build an Arch Linux ISO file with the commit on it
+name: build parchiso per release
+on:
+  push
+
+env:
+  api_key: ${{ secrets.GITHUB_TOKEN }}
+  name: ${{ github.event.repository.name }}
+  release_name: ${{ github.ref_name }}
+  GH_TOKEN: ${{ github.token }}
+  HOST: mirror.parchlinux.com
+jobs:
+  ci:
+    if: github.event.release.prerelease == true
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    container:
+      image: archlinux:latest
+      options: --privileged
+    steps:
+      - uses: actions/checkout@v3
+      - name: Install Packages via Pacman
+        run: pacman -Sy; pacman --noconfirm -S git openssh sshpass
+      - name: call cd
+        run: sshpass -p "${{ secrets.SSH_PASS }}" ssh -o StrictHostKeyChecking=no root@$HOST /srv/http/repos/update.sh
