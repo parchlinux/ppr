@@ -1,5 +1,5 @@
 # This workflow will build an Arch Linux ISO file with the commit on it
-name: build parchiso per release
+name: ci
 on:
   push
 
