@@ -11,7 +11,6 @@ env:
   HOST: mirror.parchlinux.com
 jobs:
   ci:
-    if: github.event.release.prerelease == true
     permissions:
       contents: write
     runs-on: ubuntu-latest
