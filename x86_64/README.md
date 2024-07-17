@@ -34,7 +34,7 @@
 - [nerd-hack-font-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/nerd-hack-font-1-1-any.pkg.tar.zst)
 - [parch-base-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-base-0.1-1-any.pkg.tar.zst)
 - [parch-bluetooth-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-bluetooth-1-0-any.pkg.tar.zst)
-- [parch-branding-2023](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-branding-2023.11.22-0-any.pkg.tar.zst)
+- [parch-branding-2024](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-branding-2024.07.17-0-any.pkg.tar.zst)
 - [parch-budgie-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-budgie-1-0-any.pkg.tar.zst)
 - [parch-dorood-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-dorood-1-0-any.pkg.tar.zst)
 - [parch-emoji-ios-4-5-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-emoji-ios-4-5-any.pkg.tar.zst)
