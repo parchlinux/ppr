@@ -80,4 +80,4 @@
 - [ttf-apple-emoji-17](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/ttf-apple-emoji-17.4-3-any.pkg.tar.zst)
 - [vazir-code-fonts-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vazir-code-fonts-1.1.2-2-any.pkg.tar.zst)
 - [vazirmatn-fonts-33](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vazirmatn-fonts-33.003-1-any.pkg.tar.zst)
-- [waydroid-helper-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/waydroid-helper-1-0-any.pkg.tar.zst)
+- [waydroid-helper-2-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/waydroid-helper-2-0-any.pkg.tar.zst)
