@@ -44,6 +44,7 @@
 - [parch-emoji-ios-estedad-4-5-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-emoji-ios-estedad-4-5-any.pkg.tar.zst)
 - [parch-emoji-ios-mikhak-4-5-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-emoji-ios-mikhak-4-5-any.pkg.tar.zst)
 - [parch-gdm-config-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-gdm-config-1-0-any.pkg.tar.zst)
+- [parch-gdm-settings-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-gdm-settings-0.1-4-any.pkg.tar.zst)
 - [parch-gnome-backgrounds-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-gnome-backgrounds-1.0.5-1-any.pkg.tar.zst)
 - [parch-gnome-meta-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-gnome-meta-0.3-1-any.pkg.tar.zst)
 - [parch-grub-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-grub-1-1-any.pkg.tar.zst)
