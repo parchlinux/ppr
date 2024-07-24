@@ -21,7 +21,7 @@
 - [extension-manager-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/extension-manager-0.4.3-1-x86_64.pkg.tar.zst)
 - [g4music-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/g4music-3.7.2-1-x86_64.pkg.tar.zst)
 - [gdm-settings-4](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gdm-settings-4.4-2-any.pkg.tar.zst)
-- [gnome-parch-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gnome-parch-2.0.0-2-any.pkg.tar.zst)
+- [gnome-parch-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gnome-parch-3.0.0-2-any.pkg.tar.zst)
 - [gnome-shell-extension-ubuntu-dock-84ubuntu1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gnome-shell-extension-ubuntu-dock-84ubuntu1-1-any.pkg.tar.zst)
 - [gnome-software-packagekit-46](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gnome-software-packagekit-46.2+r6+gefeba25bf-1-x86_64.pkg.tar.zst)
 - [gnome-software-packagekit-plugin-46](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/gnome-software-packagekit-plugin-46.2+r6+gefeba25bf-1-x86_64.pkg.tar.zst)
