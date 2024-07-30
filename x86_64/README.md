@@ -64,6 +64,7 @@
 - [parch-tweaks-1-5-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-tweaks-1-5-any.pkg.tar.zst)
 - [parch-wallpapers-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-wallpapers-0.0.5-0-any.pkg.tar.zst)
 - [parch-welcome-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-welcome-2.1.0-1-x86_64.pkg.tar.zst)
+- [parch-zram-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-zram-1.0-1-any.pkg.tar.zst)
 - [parch-zsh-config-1-2-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-zsh-config-1-2-any.pkg.tar.zst)
 - [parchinstaller-0-2-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parchinstaller-0-2-any.pkg.tar.zst)
 - [paru-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/paru-2.0.3-3-x86_64.pkg.tar.zst)
