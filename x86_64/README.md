@@ -37,7 +37,7 @@
 - [nerd-hack-font-1-1-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/nerd-hack-font-1-1-any.pkg.tar.zst)
 - [nvidia-pacman-hook-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/nvidia-pacman-hook-1.0.0-1-any.pkg.tar.zst)
 - [pamac-aur-11](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/pamac-aur-11.7.1-4-x86_64.pkg.tar.zst)
-- [parch-backup-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-backup-1.0.0-1-x86_64.pkg.tar.zst)
+- [parch-backup-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-backup-1.0.1-1-x86_64.pkg.tar.zst)
 - [parch-base-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-base-0.1-1-any.pkg.tar.zst)
 - [parch-bluetooth-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-bluetooth-1-0-any.pkg.tar.zst)
 - [parch-branding-2024](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-branding-2024.07.17-0-any.pkg.tar.zst)
