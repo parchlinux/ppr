@@ -75,7 +75,7 @@
 - [penc-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/penc-1.0.1-1-any.pkg.tar.zst)
 - [pipeline-gtk-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/pipeline-gtk-1.15.0-1-x86_64.pkg.tar.zst)
 - [protonup-qt-bin-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/protonup-qt-bin-2.9.2-1-x86_64.pkg.tar.zst)
-- [ptyxis-46](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/ptyxis-46.5-1-x86_64.pkg.tar.zst)
+- [ptyxis-46](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/ptyxis-46.6-1-x86_64.pkg.tar.zst)
 - [python-manimpango-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/python-manimpango-0.4.3-1-x86_64.pkg.tar.zst)
 - [python-pyparted-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/python-pyparted-3.11.7-1-x86_64.pkg.tar.zst)
 - [resources-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/resources-1.5.1-1-x86_64.pkg.tar.zst)
