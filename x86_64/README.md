@@ -19,6 +19,7 @@
 - [cutefish-cursor-themes-git-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/cutefish-cursor-themes-git-0.7-1-any.pkg.tar.zst)
 - [cutefish-gtk-themes-git-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/cutefish-gtk-themes-git-0.7.r0.g91f762f-1-any.pkg.tar.zst)
 - [dracula-gtk-theme-v3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/dracula-gtk-theme-v3.0-2-any.pkg.tar.zst)
+- [envycontrol-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/envycontrol-3.4.0-1-any.pkg.tar.zst)
 - [estedad-fonts-7](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/estedad-fonts-7.2-1-any.pkg.tar.zst)
 - [extension-manager-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/extension-manager-0.4.3-1-x86_64.pkg.tar.zst)
 - [g4music-3](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/g4music-3.7.2-1-x86_64.pkg.tar.zst)
@@ -86,3 +87,4 @@
 - [vazir-code-fonts-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vazir-code-fonts-1.1.2-2-any.pkg.tar.zst)
 - [vazirmatn-fonts-33](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/vazirmatn-fonts-33.003-1-any.pkg.tar.zst)
 - [waydroid-helper-2-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/waydroid-helper-2-0-any.pkg.tar.zst)
+- [winegui-bin-2](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/winegui-bin-2.5.0-1-x86_64.pkg.tar.zst)
