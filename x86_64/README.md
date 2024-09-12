@@ -55,7 +55,7 @@
 - [parch-modern-backgrounds-1](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-modern-backgrounds-1.0.5-1-any.pkg.tar.zst)
 - [parch-nix-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-nix-1-0-any.pkg.tar.zst)
 - [parch-nvidia-mkinitcpio-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-nvidia-mkinitcpio-1-0-any.pkg.tar.zst)
-- [parch-pacman-27-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-pacman-27-0-any.pkg.tar.zst)
+- [parch-pacman-28-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-pacman-28-0-any.pkg.tar.zst)
 - [parch-plasma-meta-0](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-plasma-meta-0.1-1-any.pkg.tar.zst)
 - [parch-plymouth-2-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-plymouth-2-0-any.pkg.tar.zst)
 - [parch-printer-1-0-any](https://raw.githubusercontent.com/parchlinux/ppr/main/x86_64/parch-printer-1-0-any.pkg.tar.zst)
